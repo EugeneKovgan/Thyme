@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Thyme/static/css/main.38debf5b.css",
+    "main.js": "/Thyme/static/js/main.a44936a7.js",
+    "static/js/787.8bc1f637.chunk.js": "/Thyme/static/js/787.8bc1f637.chunk.js",
+    "static/media/logo_thyme.svg": "/Thyme/static/media/logo_thyme.53cfa8b8bb5f71eb8fb3255b4dbd99c1.svg",
+    "static/media/eva_github-outline.svg": "/Thyme/static/media/eva_github-outline.216d00ec701728be8f07935798280e63.svg",
+    "index.html": "/Thyme/index.html",
+    "main.38debf5b.css.map": "/Thyme/static/css/main.38debf5b.css.map",
+    "main.a44936a7.js.map": "/Thyme/static/js/main.a44936a7.js.map",
+    "787.8bc1f637.chunk.js.map": "/Thyme/static/js/787.8bc1f637.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38debf5b.css",
+    "static/js/main.a44936a7.js"
+  ]
+}
