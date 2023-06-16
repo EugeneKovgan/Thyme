@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/Thyme/static/css/main.48360f7c.css",
-    "main.js": "/Thyme/static/js/main.7268267c.js",
-    "static/js/787.8bc1f637.chunk.js": "/Thyme/static/js/787.8bc1f637.chunk.js",
-    "static/media/logo_thyme.svg": "/Thyme/static/media/logo_thyme.53cfa8b8bb5f71eb8fb3255b4dbd99c1.svg",
-    "static/media/eva_github-outline.svg": "/Thyme/static/media/eva_github-outline.216d00ec701728be8f07935798280e63.svg",
+    "main.css": "/Thyme/static/css/main.97a90c78.css",
+    "main.js": "/Thyme/static/js/main.8dc1a2d8.js",
+    "static/media/logo_thyme.svg": "/Thyme/static/media/logo_thyme.e662f57d0050ae1c3b594ef246a62593.svg",
+    "static/media/eva_github-outline.svg": "/Thyme/static/media/eva_github-outline.eb5881d4a02cbb48d60d07e234590114.svg",
     "index.html": "/Thyme/index.html",
-    "main.48360f7c.css.map": "/Thyme/static/css/main.48360f7c.css.map",
-    "main.7268267c.js.map": "/Thyme/static/js/main.7268267c.js.map",
-    "787.8bc1f637.chunk.js.map": "/Thyme/static/js/787.8bc1f637.chunk.js.map"
+    "main.97a90c78.css.map": "/Thyme/static/css/main.97a90c78.css.map",
+    "main.8dc1a2d8.js.map": "/Thyme/static/js/main.8dc1a2d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.48360f7c.css",
-    "static/js/main.7268267c.js"
+    "static/css/main.97a90c78.css",
+    "static/js/main.8dc1a2d8.js"
   ]
 }
