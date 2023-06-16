@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.2",
+    "gh-pages": "^5.0.0",
     "qs": "^6.11.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -43,7 +44,9 @@
     "lint": "eslint --ext=js --ext=ts --ext=tsx . --color",
     "lint-fix": "eslint --ext=js --ext=ts --ext=tsx . --fix",
     "format": "prettier --check \"src/**/*.ts?(x)\"",
-    "format:fix": "prettier --write \"src/**/*.ts?(x)\""
+    "format:fix": "prettier --write \"src/**/*.ts?(x)\"",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
